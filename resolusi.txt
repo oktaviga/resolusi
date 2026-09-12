@@ -1,0 +1,6 @@
+RESOLUSI
+- Belajar GIT
+- Belajar Docker
+- Belajar Kubernetes
+- Belajar Nutanix
+- Belajar SQL
