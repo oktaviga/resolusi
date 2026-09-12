@@ -4,3 +4,4 @@ RESOLUSI
 - Belajar Kubernetes
 - Belajar Nutanix
 - Belajar SQL
+- Belajar HA
