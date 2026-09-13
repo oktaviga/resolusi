@@ -1,0 +1,2 @@
+Ini adalah file resolusi 2
+Test commit dari vscode
