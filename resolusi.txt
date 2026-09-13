@@ -7,3 +7,5 @@ RESOLUSI
 - Belajar PostgreSQL
 - Belajar HA SQL
 - Belajar HA PostgreSQL
+- Belajar GIT
+- Belajar javascript
