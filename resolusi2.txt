@@ -1,2 +1,4 @@
 Ini adalah file resolusi 2
 Test commit dari vscode
+Belajar resolve konflik
+Belajar close dan buat project baru
