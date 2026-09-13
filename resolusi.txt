@@ -2,5 +2,8 @@ RESOLUSI
 - Belajar GIT
 - Belajar Docker
 - Belajar Kubernetes
+- Install Nutanix
 - Belajar Nutanix
 - Belajar SQL
+- Belajar PostgreSQL
+- Belajar HA
